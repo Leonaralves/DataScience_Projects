@@ -8,5 +8,6 @@ clientes insatisfeitos interrompem seus serviços e não costumam expressar sua 
 O objetivo desse projeto de aprendizado de máquina foi de trabalhar com centenas
 de recursos anônimos para prever, para todo cliente, se ele é um cliente satisfeito ou insatisfeito com uma acurácia de no mínimo 70%.
 
+Acurácia obtida: 74.623%
 Link da competição: https://www.kaggle.com/c/santander-customer-satisfaction
 
