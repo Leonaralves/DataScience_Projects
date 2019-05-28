@@ -1,3 +1,3 @@
-# DataScience_Projects
+# PythonProjects
 
-Projetos de aplicação de técnicas de Machine Learning.
+Projetos de aplicação de técnicas de Machine Learning com Python.
