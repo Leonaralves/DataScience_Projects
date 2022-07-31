@@ -19,4 +19,4 @@ Foram utilizados o python e o modelo de regressão logística para o treinamento
 
 
 #### Conclusões
-Mesmo com a criação de novas variáveis, feature selection e cross validation, ainda obtivemos um resultado não tão bom para a acurácia do modelo e outras métricas utilizadas. Nesse caso, seria necessário mais tempo para uma análise mais profunda dos dados e tentativa de ajuste de outros modelos.
+Mesmo com a criação de novas variáveis, feature selection e cross validation, ainda obtivemos um resultado não tão bom para a acurácia do modelo (66%) e outras métricas utilizadas. Nesse caso, seria necessário mais tempo para uma análise mais profunda dos dados e tentativa de ajuste de outros modelos.
