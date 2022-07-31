@@ -14,9 +14,9 @@ A empresa está gastando muito dinheiro com disparos via Whatsapp para pessoas q
 Você então é convocado para solucionar tal desafio, e portanto deve achar a correlação entre compradores e leads.
 Para isso, acesse o banco de dados presente em sua empresa para fazer a coleta dos dados, e use os recursos ao seu alcance para solucionar o problema e apresentar as suas conclusões.
 
-### Materias e Métodos
+#### Materias e Métodos
 Foram utilizados o python e o modelo de regressão logística para o treinamento do modelo. As métricas de acertividade foram a acurácia, precisão, recall e f1-score.
 
 
-### Conclusões
+#### Conclusões
 Mesmo com a criação de novas variáveis, feature selection e cross validation, ainda obtivemos um resultado não tão bom para a acurácia do modelo e outras métricas utilizadas. Nesse caso, seria necessário mais tempo para uma análise mais profunda dos dados e tentativa de ajuste de outros modelos.
